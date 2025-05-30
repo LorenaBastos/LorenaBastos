@@ -8,13 +8,26 @@
 
 ---
 
-## 🔧 Tech Stack
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 60%; padding-right: 20px; vertical-align: top;">
+      
+  ## 🔧 Tech Stack
 
-- **Cloud & Infra:** AWS · Azure · Terraform · Docker · Kubernetes  
-- **CI/CD:** GitHub Actions · Jenkins · ArgoCD  
-- **Monitoring:** Datadog · Prometheus · Grafana · Elasticsearch Stack  
-- **Languages:** Python · Bash · YAML · SQL  
-- **Other:** Linux · Git · Slack Bots · ServiceNow Integrations
+  - **Cloud & Infra:** AWS · Azure · Terraform · Docker · Kubernetes  
+  - **CI/CD:** GitHub Actions · Jenkins · ArgoCD  
+  - **Monitoring:** Datadog · Prometheus · Grafana · Elasticsearch Stack  
+  - **Languages:** Python · Bash · YAML · SQL  
+  - **Other:** Linux · Git · Slack Bots · ServiceNow Integrations
+
+    </td>
+    <td>
+      <a href="https://github.com/LorenaBastos">
+        <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenaBastos&layout=compact&langs_count=7&theme=dracula"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
