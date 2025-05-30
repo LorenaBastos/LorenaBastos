@@ -29,7 +29,7 @@
 
 ## 🤝 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-usernam)
+- [LinkedIn](https://www.linkedin.com/in/lorena-bastos-36961019a/)
 
 
 <!--
