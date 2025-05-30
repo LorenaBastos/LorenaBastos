@@ -3,7 +3,7 @@
 # 👩‍💻 Lorena | DevOps • SRE • Security
 
 🌍 Passionate about automation, observability, and cloud security.  
-🎓 Master's student focused on DevOps Engineering.  
+🎓 Master's student focused on DevOps/Cloud Engineering.  
 🚀 Eager to grow globally and continuously improve my skills.
 
 ---
